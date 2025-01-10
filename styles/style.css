@@ -341,3 +341,144 @@
     border: none;
 
 }
+
+.donation{
+    width: 1280px;
+    height: 464px;
+    margin: 80px auto;
+}
+
+
+.donate-head{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    text-align: center;
+}
+
+.donate-paragraph{
+    font-size: 16px;
+    color: #0e0e0e90;
+    text-align: center;
+}
+
+.donate-div{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.donate-tk{
+    border: 1px solid #0e0e0e25;
+    border-radius: 18px;
+    width: 240px;
+    height: 128px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0e0e0ec7;
+    background-color: white;
+    text-align: center;
+}
+
+#input{
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    font-size: 20px;
+    color: #0e0e0e4f;
+   margin-top: 32px;
+   margin-left: 124px;
+   margin-right: 124px;
+   
+}
+
+.donate-btn{
+
+    margin-top: 32px;
+    margin-left: 580px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 122px;
+    height: 41px;
+    border: none;
+
+}
+
+/* hover section */
+.donate-tk:hover{
+    background-color: #C6E4D6;
+}
+#input:hover{
+    background-color: #C6E4D6;
+
+}
+
+#inp:hover{
+    background-color: #918e8e52;
+}
+
+
+
+/* newsletter section */
+/* newsletter section */
+#Newsletter{
+    background-color:#C6E4D6;
+    border-radius: 24px;
+    width: 1280px;
+    height: 395px;
+    margin:100px auto ;
+   
+}
+
+
+
+.s-n{
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0px;
+    margin-top: 15px;
+    text-align: center;
+    padding-top: 80px;
+    color: #0E0E0E;
+}
+.s-n-description{
+    font-size: 16px;
+    color:#0e0e0e43;
+    width: 622px;
+    height: 48px;
+    line-height: 24px;
+}
+#xx{
+    display: flex;
+    gap: 0px;
+}
+
+#inp{
+    width: 500px;
+    height: 50px;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 25px;
+    padding: 15px;
+    padding-left: 20px;
+    margin-left: 300px;
+    margin-right: 0px;
+    background-color: white;
+}
+
+#sub-btn{
+    width: 200px;
+    height: 83px;
+    background-color: #006A50;
+    border-radius: 0px 10px 10px 0px;
+    font-size: 25px;
+    padding: 15px;
+    margin: 0px;
+    color: white;
+}
+
+
