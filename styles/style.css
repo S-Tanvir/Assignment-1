@@ -5,6 +5,12 @@
     
     font-style: normal;
   }
+/* main body color */
+  .b{
+    background-color: #F5F5F5;
+}
+
+
 /* banner section */
 /* banner section */
 #banner{
@@ -61,4 +67,277 @@
     padding-top: 80px;
     padding-right: 59.99px;
     padding-bottom: 80px;
+}
+
+
+.vision-of-future{
+    width: 1280px;
+    height: 765px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+}
+
+
+.vision-head{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    width: 1280px;
+    height: 48px;
+    margin-bottom: 0px;
+}
+
+.vision-paragraph{
+    color: #0e0e0ec0;
+    font-size: 16px;
+    width: 1280px;
+    height: 48px;
+    margin-top: 24px;
+    margin-bottom:0px ;
+}
+
+.vision-main-div{
+    display: flex;
+    width: 1280px;
+    height: 325px;
+    gap: 24px;
+    margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.vision-div-1{
+    background-color: #548ff53a;
+    border-radius: 16px;
+    padding: 32px;
+   
+}
+
+.vision-image{
+    margin-bottom: 0px;
+}
+
+
+.vision-head-next{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0e0e0ece;
+    line-height: auto;
+    margin-bottom: 0px;
+    margin-top: 24px;
+}
+
+.vision-paragraph-next{
+    font-size: 16px;
+    font-weight:400;
+    color: #0e0e0eaa;
+    line-height: auto;
+    margin-top: 12px;
+    margin-bottom: 0px;
+
+}
+
+.btn-1{
+    margin-top: 24px;
+    margin-bottom: 32px;
+    background-color: #5490F5;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 122px;
+    height: 41px;
+    border: none;
+}
+
+
+
+
+.vision-div-2{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+}
+
+.btn-2{
+
+    margin-top: 24px;
+    margin-bottom: 32px;
+    background-color: #09A15C;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 122px;
+    height: 41px;
+    border: none;
+
+}
+
+.vision-div-3{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
+}
+
+.btn-3{
+
+    margin-top: 24px;
+    margin-bottom: 32px;
+    background-color: #FFC239;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 122px;
+    height: 41px;
+    border: none;
+
+}
+
+.div-challenge-1{
+    height: 210px;
+    padding: 24px 24px;
+    background-color: white;
+    border-radius: 16px;
+    margin: 32px auto;
+  
+   
+  
+}
+
+#quote-back{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    width: 1232px;
+    height: 160px;
+  
+}
+
+
+
+.challenge-paragraph-1{
+    font-size: 16px;
+    color: #0e0e0ec3;
+    width: 1232px;
+    height: 96px;
+    margin-bottom: 0px;
+    padding-top: 25px;
+}
+
+.challenge-head-1{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0e0e0ec3;
+    width: 1232px;
+    height: 24px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+
+}
+
+
+.challenge-paragraph-2{
+    color: #0e0e0e95;
+    font-size: 16px;
+    margin-top: 0px;
+   
+}
+
+.recent-news{
+    width: 1280px;
+   
+    margin: 30px auto;
+}
+
+
+.recent-news-head{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+    width: 1280px;
+    height: 48px;
+    margin-bottom: 0px;
+
+}
+
+.recent-news-paragraph{
+    color: #0e0e0ec0;
+    font-size: 16px;
+    width: 1280px;
+    height: 48px;
+    margin-top: 24px;
+    margin-bottom:0px ;
+
+}
+
+.recent-div{
+    display: flex;
+    gap: 32px;
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+
+.recent-image{
+    padding-left: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    width: 408px;
+    height: 280px;
+}
+
+.recent-description{
+    padding-top: 56px;
+    padding-right: 48px;
+    width: 744px;
+    height: 290px;
+}
+
+.recent-head{
+    font-size: 32px;
+    font-weight:bold ;
+    color: #0e0e0ec8;
+    width: 744px;
+    height: 38px;
+    line-height: auto;
+    margin: 0px;
+}
+
+.aljazeera{
+    width: 134px;
+    height: 40px;
+}
+
+.recent-p1{
+    font-size: 16px;
+    font-weight: 400;
+    width: 744px;
+    height: 24px;
+    margin: 0px;
+
+}
+
+.recent-p2{
+    font-size: 16px;
+    font-weight: 400;
+    width: 744px;
+    height: 72px;
+    line-height: 24px;
+    margin: 0px;
+}
+
+
+.recent-btn{
+
+    margin-top: 32px;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 122px;
+    height: 41px;
+    border: none;
+
 }
