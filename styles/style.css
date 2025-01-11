@@ -11,6 +11,43 @@
 }
 
 
+/* nav section */
+/* nav section */
+
+
+.nav-section{
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    height: 100px;
+    margin: 0 auto;
+
+}
+
+.nav-paragraph{
+font-size: 32px;
+font-weight: bold;
+width: 222px;
+height: 38px;
+color: #0E0E0E;
+}
+
+.nav-button{
+    border: 2px solid #006A50;
+    border-radius: 8px;
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0px;
+    margin: 0px;
+    width: 170px;
+    height: 60px;
+    margin-top: 28px;
+   
+}
+
+
+
 /* banner section */
 /* banner section */
 #banner{
@@ -21,6 +58,7 @@
     gap: 64px;
     margin: 80px auto;
     border-radius: 24px;
+    margin-top: 20px;
 }
 
 .banner-left{
@@ -60,6 +98,7 @@
     border-radius: 8px;
     padding: 17px 34px;
     margin-top: 24px;
+    border: none;
 
 }
 
@@ -68,7 +107,10 @@
     padding-right: 59.99px;
     padding-bottom: 80px;
 }
+  
 
+/* vision of future section */
+/* vision of future section */
 
 .vision-of-future{
     width: 1280px;
@@ -244,6 +286,9 @@
    
 }
 
+
+/* recent news section */
+/* recent news section */
 .recent-news{
     width: 1280px;
    
@@ -342,6 +387,10 @@
 
 }
 
+
+/* donation section */
+/* donation section */
+
 .donation{
     width: 1280px;
     height: 464px;
@@ -409,18 +458,6 @@
 
 }
 
-/* hover section */
-.donate-tk:hover{
-    background-color: #C6E4D6;
-}
-#input:hover{
-    background-color: #C6E4D6;
-
-}
-
-#inp:hover{
-    background-color: #918e8e52;
-}
 
 
 
@@ -434,8 +471,6 @@
     margin:100px auto ;
    
 }
-
-
 
 .s-n{
     font-size: 40px;
@@ -468,17 +503,114 @@
     margin-left: 300px;
     margin-right: 0px;
     background-color: white;
+    border: none;
 }
 
 #sub-btn{
     width: 200px;
-    height: 83px;
+    height: 80px;
     background-color: #006A50;
     border-radius: 0px 10px 10px 0px;
     font-size: 25px;
     padding: 15px;
     margin: 0px;
     color: white;
+    border:none;
 }
+
+
+
+
+/* footer section */
+/* footer section */
+
+.footer{
+    width:auto;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.footer-paragraph{
+
+font-size: 32px;
+font-weight: bold;
+width: 222px;
+height: 38px;
+color: #0E0E0E;
+text-align: center;
+padding-left: 630px;
+padding-top: 50px;
+
+}
+
+.footer-image-div{
+    display: flex;
+    gap: 20px;
+    padding-left: 690px;
+    padding-top: 32px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+/* hover section */
+/* hover section */
+
+.donate-tk:hover{
+    background-color: #C6E4D6;
+    color: black;
+    text-align: center;
+}
+#input:hover{
+    background-color: #C6E4D6;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+}
+
+#inp:hover{
+   
+    font-size: 27px;
+    color: rgba(0, 0, 0, 0.299);
+    font-weight: 500;
+}
+
+.nav-button:hover{
+    background-color:#C6E4D6 ;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.donate-btn:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px;
+}
+
+.banner-explore-button:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px;
+
+}
+
+.btn-1:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px; 
+}
+
+.btn-2:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px; 
+}
+
+.btn-3:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px; 
+}
+
+.recent-btn:hover{
+    box-shadow: #0e0e0e60 3px 5px 5px 3px;   
+}
+
 
 
