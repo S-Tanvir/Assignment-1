@@ -5,7 +5,8 @@
     
     font-style: normal;
   }
-/* main body color */
+  
+/* main body background color */
   .b{
     background-color: #F5F5F5;
 }
@@ -589,7 +590,7 @@ td{
     width: 1280px;
     height: 395px;
     margin:100px auto ;
-   
+    
 }
 
 .s-n{
@@ -598,7 +599,7 @@ td{
     margin: 0px;
     margin-top: 15px;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 55px;
     color: #0E0E0E;
 }
 .s-n-description{
@@ -607,6 +608,7 @@ td{
     width: 622px;
     height: 48px;
     line-height: 24px;
+    margin-bottom: 0px;
 }
 #xx{
     display: flex;
@@ -622,6 +624,7 @@ td{
     padding-left: 20px;
     margin-left: 300px;
     margin-right: 0px;
+    margin-top: 0px;
     background-color: white;
     border: none;
 }
